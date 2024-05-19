@@ -25,7 +25,7 @@ function showSelamat() {
         ucapan = "Selamat Malam";
     }
 
-    var message = `${ucapan}, perkenalkan aku Aliezzar Wijaya, ini adalah website kalkulator pertamaku!`;
+    var message = `${ucapan} pengunjung website!!`;
     alert(message);
 }
 
