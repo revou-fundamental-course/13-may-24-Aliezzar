@@ -29,7 +29,6 @@ function showSelamat() {
     alert(message);
 }
 
-// Memanggil showGreeting ketika halaman selesai dimuat
 document.addEventListener("DOMContentLoaded", function() {
     showSelamat();
 });
